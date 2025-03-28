@@ -1,5 +1,7 @@
 # Club Evaluation Data
 
+## feat: Added 1132 Club Evaluation Data Guidelines.pdf
+
 ## style: Adjust README.md Format
 
 * Feature
